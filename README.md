@@ -7,7 +7,7 @@ I wanted the content to be humorous and a bit tongue-in-cheek, plus to sync toge
 
 Implementing the CSS styling was surprisingly challenging, yet nicely rewarding once each section was finished. Kevin Powell's videos on YouTube were immensely helpful. Thanks, Kevin!
 
-During the project I have extended my knowledge of Git, becoming more familiar with `git add` and `git commit`, and discovering `git rm`, `git mv`, `git ls-files` and using a file called .gitignore.
+During the project I have extended my knowledge of Git, becoming more familiar with `git add` and `git commit`, and discovering `git rm`, `git mv`, `git ls-files` and using a file called `.gitignore`.
 
 I may return to this project in the future and fine tune how the CSS controls the Roboto font.
 
