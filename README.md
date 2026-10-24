@@ -14,10 +14,10 @@ I may return to this project in the future and fine tune how the CSS controls th
 ## Photo Credit
 A big thanks to [Pexels](https://www.pexels.com/) for having an outstanding library of free photos to use.
 
-Main rocket photo by [SpaceX](https://www.pexels.com/@spacex/)
+Main rocket photo by [SpaceX](https://www.pexels.com/@spacex/).
 
 Fungi photos (L-R):
-[Jürgen](https://www.pexels.com/@jurgen-32247829/)
-[Jeremy Wong](https://www.pexels.com/@jeremy-wong-1918664027/)
-[Marek Piwnicki](https://www.pexels.com/@marek-piwnicki-3907296/)
-[Ernest Doroshenko](https://www.pexels.com/@ernest-doroshenko-510299870/)
+[Jürgen](https://www.pexels.com/@jurgen-32247829/), 
+[Jeremy Wong](https://www.pexels.com/@jeremy-wong-1918664027/), 
+[Marek Piwnicki](https://www.pexels.com/@marek-piwnicki-3907296/) and
+[Ernest Doroshenko](https://www.pexels.com/@ernest-doroshenko-510299870/).
