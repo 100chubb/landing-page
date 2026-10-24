@@ -46,6 +46,10 @@ h3 {
   margin: 0 0 6px 0;
 }
 
+p {
+  margin-bottom: 10px;
+}
+
 img {
   display: block;
   max-inline-size: 100%;
@@ -111,12 +115,12 @@ img {
   color: #9fa2a9;
   display: flex;
   justify-content: center;
-  gap: 40px;
+  gap: 30px;
   flex-wrap: wrap;
 }
 
 .info-card {
-  max-width: 175px;
+  max-width: 200px;
   text-align: center;
 }
 
